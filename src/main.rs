@@ -1,6 +1,6 @@
 use async_std::io::stdin;
 use futures::io;
-use peer_link::PeerPipe;
+use peer_piper::PeerPipe;
 use std::error::Error;
 
 #[async_std::main]
