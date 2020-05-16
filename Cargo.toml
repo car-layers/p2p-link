@@ -8,3 +8,5 @@ edition = "2018"
 libp2p = "0.16.2"
 async-std = { version = "1.5.0", features = ["attributes"] }
 futures = "0.3.4"
+log = "0.4.8"
+simple_logger = "1.6.0"
